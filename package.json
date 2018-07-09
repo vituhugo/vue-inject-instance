@@ -1,6 +1,6 @@
 {
   "name": "vue-inject-instance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Init vue app using instances separet per files",
   "main": "index.js",
   "scripts": {
