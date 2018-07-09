@@ -1,0 +1,24 @@
+{
+  "name": "vue-inject-instance",
+  "version": "1.0.0",
+  "description": "Init vue app using instances separet per files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vituhugo/vue-inject-instance.git"
+  },
+  "keywords": [
+    "vue",
+    "inject",
+    "pages"
+  ],
+  "author": "Victor Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vituhugo/vue-inject-instance/issues"
+  },
+  "homepage": "https://github.com/vituhugo/vue-inject-instance#readme"
+}
