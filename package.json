@@ -1,24 +1,91 @@
 {
-  "name": "vue-inject-instance",
-  "version": "1.0.3",
+  "_args": [
+    [
+      {
+        "raw": "vue-inject-instance",
+        "scope": null,
+        "escapedName": "vue-inject-instance",
+        "name": "vue-inject-instance",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Trabalho\\PhpstormProjects\\qual-lp-paodeacucar"
+    ]
+  ],
+  "_from": "vue-inject-instance@latest",
+  "_id": "vue-inject-instance@1.0.1",
+  "_inCache": true,
+  "_location": "/vue-inject-instance",
+  "_nodeVersion": "6.10.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/vue-inject-instance_1.0.1_1531172472659_0.48866314035345715"
+  },
+  "_npmUser": {
+    "name": "vihar2",
+    "email": "victor.rodrigues.dev@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-inject-instance",
+    "scope": null,
+    "escapedName": "vue-inject-instance",
+    "name": "vue-inject-instance",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-inject-instance/-/vue-inject-instance-1.0.1.tgz",
+  "_shasum": "30d9a3745606415f70a05520b2a68557778ca1b6",
+  "_shrinkwrap": null,
+  "_spec": "vue-inject-instance",
+  "_where": "C:\\Users\\Trabalho\\PhpstormProjects\\qual-lp-paodeacucar",
+  "author": {
+    "name": "Victor Rodrigues"
+  },
+  "bugs": {
+    "url": "https://github.com/vituhugo/vue-inject-instance/issues"
+  },
+  "dependencies": {},
   "description": "Init vue app using instances separet per files",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "30d9a3745606415f70a05520b2a68557778ca1b6",
+    "tarball": "https://registry.npmjs.org/vue-inject-instance/-/vue-inject-instance-1.0.1.tgz",
+    "fileCount": 5,
+    "unpackedSize": 1477
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vituhugo/vue-inject-instance.git"
-  },
+  "gitHead": "71327ff9cd9df9763aa90d4f166138470ae6a3d3",
+  "homepage": "https://github.com/vituhugo/vue-inject-instance#readme",
   "keywords": [
     "vue",
     "inject",
     "pages"
   ],
-  "author": "Victor Rodrigues",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vituhugo/vue-inject-instance/issues"
+  "main": "dist/instances.js",
+  "maintainers": [
+    {
+      "name": "vihar2",
+      "email": "victor.rodrigues.dev@gmail.com"
+    }
+  ],
+  "name": "vue-inject-instance",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vituhugo/vue-inject-instance.git"
   },
-  "homepage": "https://github.com/vituhugo/vue-inject-instance#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
 }
