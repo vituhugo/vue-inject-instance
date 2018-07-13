@@ -19,10 +19,6 @@ class Builder {
             instances_path += "/"
         }
 
-        if (["\\","/"].indexOf(file_result.split('').reverse()[0]) === -1) {
-            file_result += "/"
-        }
-
         let filelist = fs.readdirSync(instances_path)
 
         let raw = filelist
